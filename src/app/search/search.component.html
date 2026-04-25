@@ -1,0 +1,72 @@
+<div class="container my-5">
+
+  <!-- Title -->
+  <h2 class="text-center uk-margin-large-bottom">
+    Search Results for "{{ searchTerm }}"
+  </h2>
+
+  <!-- Tabs -->
+  <ul class="nav nav-tabs justify-content-center mb-5 mt-5">
+    <li class="nav-item">
+      <button class="nav-link" [class.active]="activeTab === 'movies'" (click)="activeTab='movies'">
+        Movies
+      </button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link" [class.active]="activeTab === 'series'" (click)="activeTab='series'">
+        Series
+      </button>
+    </li>
+    <li class="nav-item">
+      <button class="nav-link" [class.active]="activeTab === 'tv'" (click)="activeTab='tv'">
+        TV Show
+      </button>
+    </li>
+  </ul>
+
+  <!-- Grid -->
+  <div class="row">
+
+    <!-- Movies -->
+    <ng-container *ngIf="activeTab === 'movies'">
+      <div class="col-md-6 m-auto mt-4 mb-4" *ngFor="let item of movies">
+        <div class="card bg-dark text-white h-100" (click)="openPage(item)" style="cursor:pointer">
+          <img [src]="item.image" class="card-img-top" />
+          <div class="card-body text-center">
+            <h5>{{ item.name }}</h5>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+
+    <!-- Series -->
+    <ng-container *ngIf="activeTab === 'series'">
+      <div class="col-md-6 m-auto mt-4 mb-4" *ngFor="let item of series">
+        <div class="card bg-dark text-white h-100" (click)="openPage(item)">
+          <img [src]="item.image" class="card-img-top" />
+          <div class="card-body text-center ">
+            <h5>{{ item.name }}</h5>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+
+    <!-- TV -->
+    <ng-container *ngIf="activeTab === 'tv'">
+      <div class="col-md-6 m-auto mt-4 mb-4" *ngFor="let item of TvShow">
+        <div class="card bg-dark text-white h-100" (click)="openPage(item)">
+          <img [src]="item.image" class="card-img-top" />
+          <div class="card-body text-center">
+            <h5>{{ item.name }}</h5>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+
+    <!-- No Results -->
+    <div *ngIf="!movies.length && !series.length && !TvShow.length" class="text-center">
+      <h4>No Results Found 😢</h4>
+    </div>
+
+  </div>
+</div>

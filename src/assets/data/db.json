@@ -1,0 +1,465 @@
+[
+  {
+    "id"          : "1",
+    "image"       : "assets/img/Movies/avatar/AvatarFireAndAsh(2025).jpg",
+    "name"        : "Avatar Fire And Ash",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "James Cameron",
+    "writers"     : "James Cameron, Rick Jaffa and Amanda Silver",
+    "stars"       : "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+    "imdbRating" : "7.4/10",
+    "info"        : "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+    "gallery"     : [
+                      "assets/img/Movies/avatar/maxresdefault2.jpg",
+                      "assets/img/Movies/avatar/maxresdefault.jpg",
+                      "assets/img/Movies/avatar/avatar-fire-trailer.jpg",
+                      "assets/img/Movies/avatar/avatar-fire-trailer2.jpg",
+                      "assets/img/Movies/avatar/avatar_FireandAsh.jpg"
+                    ]
+  },
+  {
+    "id"          : "15",
+    "image"       : "assets/img/Series/HISandHERS/HISandHERS.jpg",
+    "name"        : "HIS and HERS",
+    "date"        : "2025",
+    "title"       : "Series",
+    "session"     : "Session One",
+    "director"    : "William Oldroyd",
+    "writers"     : "William Oldroyd, Tori Sampson and Dee Johnson",
+    "stars"       : "Isabelle Kusman, Tessa Thompson, Jon Bernthal",
+    "imdbRating"  : "7.3/10",
+    "info"        : "A journalist investigates a murder in her hometown, clashing with a suspicious detective. Two sides to every story - someone is lying.",
+    "gallery"     : [
+                      "assets/img/Series/HISandHERS/HISandHERS1.jpg",
+                      "assets/img/Series/HISandHERS/HISandHERS2.jpg",
+                      "assets/img/Series/HISandHERS/HISandHERS3.jpg",
+                      "assets/img/Series/HISandHERS/HISandHERS4.jpg",
+                      "assets/img/Series/HISandHERS/HISandHERS5.jpg"
+
+                    ]
+  },
+  {
+    "id"          : "16",
+    "image"       : "assets/img/Tv-Show/MyKoreanBoyfriend/MyKoreanBoyfriend.jpg",
+    "name"        : "My Korean Boyfriend",
+    "date"        : "2025",
+    "title"       : "Tv-Show",
+    "director"    : "Adriana Silva",
+    "writers"     : "Luanny Vital",
+    "stars"       : "Katy Dias, Camila Kim and Morena Monaco",
+    "imdbRating"  : "3.9/10",
+    "info"        : "Brazilian girlfriends travel to South Korea's capital to test their long-distance relationships against cultural barriers and lifestyle changes in the vibrant city of Seoul.",
+    "gallery"     : [
+                      "assets/img/Tv-Show/MyKoreanBoyfriend/MyKoreanBoyfriend1.jpg",
+                      "assets/img/Tv-Show/MyKoreanBoyfriend/MyKoreanBoyfriend2.jpg",
+                      "assets/img/Tv-Show/MyKoreanBoyfriend/MyKoreanBoyfriend3.jpg",
+                      "assets/img/Tv-Show/MyKoreanBoyfriend/MyKoreanBoyfriend4.jpg",
+                      "assets/img/Tv-Show/MyKoreanBoyfriend/MyKoreanBoyfriend5.jpg"
+                    ]
+  },
+  {
+    "id"          : "2",
+    "image"       : "assets/img/Movies/NowYouSeeMeNowYouDont(2025)/NowYouSeeMeNowYouDont(2025).jpg",
+    "name"        : "Now You See Me Now You Don`t",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "Ruben Fleischer",
+    "writers"     : "Michael Lesslie, Paul Wernick and Rhett Reese",
+    "stars"       : "Jesse Eisenberg, Woody Harrelson, Dave Franco",
+    "imdbRating"  : "6.0/10",
+    "info"        : "The Four Horsemen reunite and team up with a new generation of young illusionists to expose a diamond heiress's global money laundering scheme for criminals.",
+    "gallery"     : [
+                      "assets/img/Movies/NowYouSeeMeNowYouDont(2025)/NowYouSeeMeNowYouDont1.jpg",
+                      "assets/img/Movies/NowYouSeeMeNowYouDont(2025)/NowYouSeeMeNowYouDont2.jpg",
+                      "assets/img/Movies/NowYouSeeMeNowYouDont(2025)/NowYouSeeMeNowYouDont3.jpg",
+                      "assets/img/Movies/NowYouSeeMeNowYouDont(2025)/NowYouSeeMeNowYouDont4.jpg",
+                      "assets/img/Movies/NowYouSeeMeNowYouDont(2025)/NowYouSeeMeNowYouDont5.jpg"
+                    ]  
+  },
+  {
+    "id"          : "3",
+    "image"       : "assets/img/Movies/TrapHouse/TrapHouse(2025).jpg",
+    "name"        : "Trap House",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "Michael Dowse",
+    "writers"     : "Gary Scott Thompson and Tom O'Connor",
+    "stars"       : "Dave Bautista, Jack Champion, Bobby Cannavale",
+    "imdbRating"  : "5.4/10",
+    "info"        : "A DEA agent and his partner pursue thieves: their own rebellious teens, who began robbing the cartel using their parents' tactics and classified intel.",
+    "gallery"     : [
+                      "assets/img/Movies/TrapHouse/TrapHouse1.jpg",
+                      "assets/img/Movies/TrapHouse/TrapHouse2.jpg",
+                      "assets/img/Movies/TrapHouse/TrapHouse3.jpg",
+                      "assets/img/Movies/TrapHouse/TrapHouse4.jpg",
+                      "assets/img/Movies/TrapHouse/TrapHouse5.jpg"
+                    ]
+  },
+  {
+    "id"          : "13",
+    "image"       : "assets/img/Series/WildCards/WildCardsSessionThree.jpg",
+    "name"        : "Wild Cards",
+    "date"        : "2025",
+    "title"       : "Series",
+    "session"     : "Session Three",
+    "director"    : "Michael Konyves",
+    "writers"     : "George R. R. Martin",
+    "stars"       : "Vanessa Morgan, Giacomo Gianniotti and Michael Xavier",
+    "imdbRating"  : "7.2/10",
+    "info"        : "A spirited con woman and a demoted by-the-book detective are given the chance to redeem themselves. The catch? They must find a way to work together each using their unique skills to solve crimes.",
+    "gallery"     : [
+                      "assets/img/Series/WildCards/WildCards1.jpg",
+                      "assets/img/Series/WildCards/WildCards2.jpg",
+                      "assets/img/Series/WildCards/WildCards3.jpg",
+                      "assets/img/Series/WildCards/WildCards4.jpg",
+                      "assets/img/Series/WildCards/WildCards5.jpg"
+                    ]
+  },
+  {
+    "id"          : "14",
+    "image"       : "assets/img/Series/SanctuaryAWitch/SanctuaryAWitch'sTale.jpg",
+    "name"        : "Sanctuary: A Witch's Tale",
+    "date"        : "2025",
+    "title"       : "Series",
+    "session"     : "Session Two",
+    "director"    : "Lisa Mulcahy and Justin Molotnikov",
+    "writers"     : "Debbie Horsfield",
+    "stars"       : "Elaine Cassidy, Hazel Doupe and Daniel Adegboyega",
+    "imdbRating"  : "6.2/10",
+    "info"        : "A small UK town named Sanctuary is shaken by murder accusations after a boy is discovered dead from an accident.",
+    "gallery"     : [
+                      "assets/img/Series/SanctuaryAWitch/SanctuaryAWitch1.jpg",
+                      "assets/img/Series/SanctuaryAWitch/SanctuaryAWitch2.jpg",
+                      "assets/img/Series/SanctuaryAWitch/SanctuaryAWitch3.jpg",
+                      "assets/img/Series/SanctuaryAWitch/SanctuaryAWitch4.jpg",
+                      "assets/img/Series/SanctuaryAWitch/SanctuaryAWitch5.jpg"
+                    ]
+  },
+  {
+    "id"          : "4",
+    "image"       : "assets/img/Movies/HuntingSeason/HuntingSeason2025.jpg",
+    "name"        : "Hunting Season",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "RJ Collins",
+    "writers"     : "Adam Hampton",
+    "stars"       : "Mel Gibson, Shelley Hennig and Scarlet Rose Stallone",
+    "imdbRating"  : "5.7/10",
+    "info"        : "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
+    "gallery"     : [
+                      "assets/img/Movies/HuntingSeason/HuntingSeason1.jpg",
+                      "assets/img/Movies/HuntingSeason/HuntingSeason2.jpg",
+                      "assets/img/Movies/HuntingSeason/HuntingSeason3.jpg",
+                      "assets/img/Movies/HuntingSeason/HuntingSeason4.jpg",
+                      "assets/img/Movies/HuntingSeason/HuntingSeason5.jpg"
+                    ]
+  },
+  {
+    "id"          : "5",
+    "image"       : "assets/img/Movies/TinselTown/TinselTown2025.jpg",
+    "name"        : "Tinsel Town",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "Chris Foggin",
+    "writers"     : "Piers Ashworth, Adam Brown and Jake Brunger",
+    "stars"       : "Colin Griff King, Jennifer Biddall and Kiefer Sutherland",
+    "imdbRating"  : "5.3/10",
+    "info"        : "A washed-up Hollywood action hero takes a role in a small English village's quirky Christmas pantomime, where he finds unexpected inspiration through the show's straight-talking dance instructor.",
+    "gallery"     : [
+                      "assets/img/Movies/TinselTown/TinselTown1.jpg",
+                      "assets/img/Movies/TinselTown/TinselTown2.jpg",
+                      "assets/img/Movies/TinselTown/TinselTown3.jpg",
+                      "assets/img/Movies/TinselTown/TinselTown4.jpg",
+                      "assets/img/Movies/TinselTown/TinselTown5.jpg"
+                    ]
+  },
+  {
+    "id"          : "19",
+    "image"       : "assets/img/Tv-Show/TopChef/TopChef.jpg",
+    "name"        : "Top Chef",
+    "date"        : "2025",
+    "title"       : "Tv-Show",
+    "director"    : "Paul Starkman",
+    "writers"     : "Gail Simmons, Padma Lakshmi and Tom Colicchio",
+    "stars"       : "Richard Blais, Gregory Gourdet, Brooke Williamson and Kristen Kish",
+    "imdbRating"  : "7.7/10",
+    "info"        : "Aspiring chefs are judged by a panel of food and wine experts while competing against one another for a shot at culinary stardom.",
+    "gallery"     : [
+                      "assets/img/Tv-Show/TopChef/TopChef1.jpg",
+                      "assets/img/Tv-Show/TopChef/TopChef2.jpg",
+                      "assets/img/Tv-Show/TopChef/TopChef3.jpg",
+                      "assets/img/Tv-Show/TopChef/TopChef4.jpg",
+                      "assets/img/Tv-Show/TopChef/TopChef5.jpg"
+                    ]
+  },
+  {
+    "id"          : "6",
+    "image"       : "assets/img/Movies/Zootopia2/Zootopia2(2025).jpg",
+    "name"        : "Zootopia 2",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "Jared Bush and Byron Howard",
+    "writers"     : "Jared Bush and Byron Howard",
+    "stars"       : "Ginnifer Goodwin, Jason Bateman, Ke Huy Quan and Shakira",
+    "imdbRating"  : "7.5/10",
+    "info"        : "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
+    "gallery"     : [
+                      "assets/img/Movies/Zootopia2/Zootopia1.jpg",
+                      "assets/img/Movies/Zootopia2/Zootopia2.jpg",
+                      "assets/img/Movies/Zootopia2/Zootopia3.jpg",
+                      "assets/img/Movies/Zootopia2/Zootopia4.jpg",
+                      "assets/img/Movies/Zootopia2/Zootopia5.jpg"
+                    ]
+  },
+  {
+    "id"          : "7",
+    "image"       : "assets/img/Movies/PredatorBadlands/PredatorBadlands.jpg",
+    "name"        : "Predator Badlands",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "Dan Trachtenberg",
+    "writers"     : "Patrick Aison, Jim Thomas and Dimitrius Schuster-Koloamatangi",
+    "stars"       : "Elle Fanning, Dimitrius Schuster-Koloamatangi and Ravi Narayan",
+    "imdbRating"  : "7.3/10",
+    "info"        : "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+    "gallery"     : [
+                      "assets/img/Movies/PredatorBadlands/PredatorBadlands1.jpg",
+                      "assets/img/Movies/PredatorBadlands/PredatorBadlands2.jpg",
+                      "assets/img/Movies/PredatorBadlands/PredatorBadlands3.jpg",
+                      "assets/img/Movies/PredatorBadlands/PredatorBadlands4.jpg",
+                      "assets/img/Movies/PredatorBadlands/PredatorBadlands5.jpg"
+                    ]
+  },
+  {
+    "id"          : "20",
+    "image"       : "assets/img/Tv-Show/TheKardashians/TheKardashians.jpg",
+    "name"        : "The Kardashians",
+    "date"        : "2025",
+    "title"       : "Tv-Show",
+    "director"    : "Chris Ray",
+    "writers"     : "Ryan Seacrest and Eliot Goldberg",
+    "stars"       : "Kim Kardashian, Kris Jenner and Kourtney Kardashian",
+    "imdbRating"  : "4.5/10",
+    "info"        : "Follow the Kardashian family as they celebrate new ventures and navigate through their new normal: motherhood, relationships, and career goals.",
+    "gallery"     : [
+                      "assets/img/Tv-Show/TheKardashians/TheKardashians1.jpg",
+                      "assets/img/Tv-Show/TheKardashians/TheKardashians2.jpg",
+                      "assets/img/Tv-Show/TheKardashians/TheKardashians3.jpg",
+                      "assets/img/Tv-Show/TheKardashians/TheKardashians4.jpg",
+                      "assets/img/Tv-Show/TheKardashians/TheKardashians5.jpg"
+                    ]
+  },
+  {
+    "id"          : "8",
+    "image"       : "assets/img/Movies/RegrettingYou/RegrettingYou.jpg",
+    "name"        : "Regretting You",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "Josh Boone",
+    "writers"     : "Susan McMartin and Colleen Hoover",
+    "stars"       : "Allison Williams, Mckenna Grace and Dave Franco",
+    "imdbRating"  : "6.0/10",
+    "info"        : "A mother and daughter must grapple with what's left after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover themselves.",
+    "gallery"     : [
+                      "assets/img/Movies/RegrettingYou/RegrettingYou1.jpg",
+                      "assets/img/Movies/RegrettingYou/RegrettingYou2.jpg",
+                      "assets/img/Movies/RegrettingYou/RegrettingYou3.jpg",
+                      "assets/img/Movies/RegrettingYou/RegrettingYou4.jpg",
+                      "assets/img/Movies/RegrettingYou/RegrettingYou5.jpg"
+                    ]
+  },
+  {
+    "id"          : "9",
+    "image"       : "assets/img/Movies/WickedForGood/WickedForGood.jpg",
+    "name"        : "Wicked: For Good",
+    "date"        : "2025",
+    "title"       : "Movies",
+    "director"    : "Jon M. Chu",
+    "writers"     : "Winnie Holzman, Dana Fox and Stephen Schwartz",
+    "stars"       : "Cynthia Erivo, Ariana Grande and Jeff Goldblum",
+    "imdbRating"  : "6.8/10",
+    "info"        : "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+    "gallery"     : [
+                      "assets/img/Movies/WickedForGood/WickedForGood1.jpg",
+                      "assets/img/Movies/WickedForGood/WickedForGood2.jpg",
+                      "assets/img/Movies/WickedForGood/WickedForGood3.jpg",
+                      "assets/img/Movies/WickedForGood/WickedForGood4.jpg",
+                      "assets/img/Movies/WickedForGood/WickedForGood5.jpg"
+                    ]
+  },
+  {
+    "id"          : "10",
+    "image"       : "assets/img/Series/SpartacusHouseOfAshur/SpartacusHouseofAshur.jpg",
+    "name"        : "Spartacus House of Ashur",
+    "date"        : "2025",
+    "title"       : "Series",
+    "session"     : "Session One",
+    "director"    : "Steven S. DeKnight",
+    "writers"     : "Steven S. DeKnight, Henry G.M. Jones, Diya Mishra and Beverly Okhio",
+    "stars"       : "Nick E. Tarabay, Graham McTavish and Tenika Davis",
+    "imdbRating"  : "5.8/10",
+    "info"        : "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+    "gallery"     : [
+                      "assets/img/Series/SpartacusHouseOfAshur/SpartacusHouseofAshur1.jpg",
+                      "assets/img/Series/SpartacusHouseOfAshur/SpartacusHouseofAshur2.jpg",
+                      "assets/img/Series/SpartacusHouseOfAshur/SpartacusHouseofAshur3.jpg",
+                      "assets/img/Series/SpartacusHouseOfAshur/SpartacusHouseofAshur4.jpg",
+                      "assets/img/Series/SpartacusHouseOfAshur/SpartacusHouseofAshur5.jpg"
+                    ]
+  },
+  {
+    "id"          : "21",
+    "image"       : "assets/img/Tv-Show/Lucifer/Lucifer.jpg",
+    "name"        : "Lucifer",
+    "date"        : "2025",
+    "title"       : "Series",
+    "director"    : "Prithviraj Sukumaran",
+    "writers"     : "Tom Kapinos, Joe Henderson and Ildy Modrovich",
+    "stars"       : "Tom Ellis, Lauren German and Kevin Alejandro",
+    "imdbRating"  : "8.0/10",
+    "info"        : "Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels.",
+    "gallery"     : [
+                      "assets/img/Tv-Show/Lucifer/Lucifer1.jpg",
+                      "assets/img/Tv-Show/Lucifer/Lucifer2.jpg",
+                      "assets/img/Tv-Show/Lucifer/Lucifer3.jpg",
+                      "assets/img/Tv-Show/Lucifer/Lucifer4.jpg",
+                      "assets/img/Tv-Show/Lucifer/Lucifer5.jpg"
+                    ]
+  },
+  {
+    "id"          : "11",
+    "image"       : "assets/img/Series/DenisMedical/StDenisMedicalSessionTwo.jpg",
+    "name"        : "St Denis Medical",
+    "date"        : "2025",
+    "title"       : "Series",
+    "session"     : "Session Two",
+    "director"    : "Wendi McLendon-Covey",
+    "writers"     : "Justin Spitzer",
+    "stars"       : "Wendi McLendon-Covey, Allison Tolman and Josh Lawson",
+    "imdbRating"  : "7.1/10",
+    "info"        : "It follows an underfunded, understaffed hospital where the doctors and nurses try their best to treat patients while maintaining their own sanity.",
+    "gallery"     : [
+                      "assets/img/Series/DenisMedical/StDenisMedicalSessionTwo1.jpg",
+                      "assets/img/Series/DenisMedical/StDenisMedicalSessionTwo2.jpg",
+                      "assets/img/Series/DenisMedical/StDenisMedicalSessionTwo3.jpg",
+                      "assets/img/Series/DenisMedical/StDenisMedicalSessionTwo4.jpg",
+                      "assets/img/Series/DenisMedical/StDenisMedicalSessionTwo5.jpg"
+                    ]
+  },
+  {
+    "id"          : "12",
+    "image"       : "assets/img/Series/ShiftingGears/ShiftingGearsSessionTwo.jpg",
+    "name"        : "Shifting Gears",
+    "date"        : "2025",
+    "title"       : "Series",
+    "session"     : "Session Two",
+    "director"    : "Danielle Fishel",
+    "writers"     : "Mike Scully, Julie Thacker-Scully",
+    "stars"       : "Tim Allen, Kat Dennings and Seann William Scott",
+    "imdbRating"  : "6.3/10",
+    "info"        : "Headstrong widower Matt owns a classic car workshop. When his separated daughter and her teenage children arrive at his house, the real restoration begins.",
+    "gallery"     : [
+                      "assets/img/Series/ShiftingGears/ShiftingGears1.jpg",
+                      "assets/img/Series/ShiftingGears/ShiftingGears2.jpg",
+                      "assets/img/Series/ShiftingGears/ShiftingGears3.jpg",
+                      "assets/img/Series/ShiftingGears/ShiftingGears4.jpg",
+                      "assets/img/Series/ShiftingGears/ShiftingGears5.jpg"
+                    ]
+  },
+  {
+    "id"          : "23",
+    "image"       : "assets/img/Movies/GreenLand/GreenLand.jpg",
+    "name"        : "Greenland 2: Migration",
+    "date"        : "2026",
+    "title"       : "Movies",
+    "director"    : "Ric Roman Waugh",
+    "writers"     : "Mitchell LaFortune, Chris Sparling",
+    "stars"       : "Gerard Butler, Morena Baccarin, Roman Griffin Davis",
+    "imdbRating"  : "5.3/10",
+    "info"        : "The surviving Garrity family must leave the safety of the Greenland bunker and embark on a perilous journey across the decimated frozen wasteland of Europe to find a new home.",
+    "gallery"     : [
+                      "assets/img/Movies/GreenLand/GreenLand1.jpg",
+                      "assets/img/Movies/GreenLand/GreenLand2.jpg",
+                      "assets/img/Movies/GreenLand/GreenLand3.jpg",
+                      "assets/img/Movies/GreenLand/GreenLand4.jpg",
+                      "assets/img/Movies/GreenLand/GreenLand5.jpg"
+                    ]
+  },
+  {
+    "id"          : "17",
+    "image"       : "assets/img/Tv-Show/BeastGames/BeastGames.jpg",
+    "name"        : "Beast Games",
+    "date"        : "2025",
+    "title"       : "Tv-Show",
+    "director"    : "Tyler Conklin",
+    "writers"     : "Tyler Conklin, Sean Klitzner, MrBeast",
+    "stars"       : "MrBeast, Nolan Hansen, Karl Jacobs",
+    "imdbRating"  : "8.5/10",
+    "info"        : "A reality-competition show, in which over 1,000 contestants play for a single $5 million cash payout.",
+    "gallery"     : [
+                      "assets/img/Tv-Show/BeastGames/BeastGames1.jpg",
+                      "assets/img/Tv-Show/BeastGames/BeastGames2.jpg",
+                      "assets/img/Tv-Show/BeastGames/BeastGames3.jpg",
+                      "assets/img/Tv-Show/BeastGames/BeastGames4.jpg",
+                      "assets/img/Tv-Show/BeastGames/BeastGames5.jpg"
+                    ]
+  },
+  {
+    "id"          : "18",
+    "image"       : "assets/img/Tv-Show/SharkTank/SharkTank.jpg",
+    "name"        : "Shark Tank",
+    "date"        : "2025",
+    "title"       : "Tv-Show",
+    "director"    : "Ken Fuchs, Craig Spirko, and Alan Carter",
+    "writers"     : "Michael Parrish DuDell",
+    "stars"       : "Kevin O'Leary, Phil Crowley, Mark Cuban",
+    "imdbRating"  : "7.6/10",
+    "info"        : "Ambitious entrepreneurs present their breakthrough business concepts.",
+    "gallery"     : [
+                      "assets/img/Tv-Show/SharkTank/SharkTank1.jpg",
+                      "assets/img/Tv-Show/SharkTank/SharkTank2.jpg",
+                      "assets/img/Tv-Show/SharkTank/SharkTank3.jpg",
+                      "assets/img/Tv-Show/SharkTank/SharkTank4.jpg",
+                      "assets/img/Tv-Show/SharkTank/SharkTank5.jpg"
+                    ]
+  },
+  {
+    "id"          : "24",
+    "image"       : "assets/img/Movies/theWreckingCrew/TheWreckingCrew.jpg",
+    "name"        : "The Wrecking Crew",
+    "date"        : "2026",
+    "title"       : "Movies",
+    "director"    : "Angel Manuel Soto",
+    "writers"     : "Jonathan Tropper",
+    "stars"       : "Dave Bautista, Jason Momoa, Temuera Morrison",
+    "imdbRating"  : "6.5/10",
+    "info"        : "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+    "gallery"     : [
+                      "assets/img/Movies/theWreckingCrew/TheWreckingCrew1.jpg",
+                      "assets/img/Movies/theWreckingCrew/TheWreckingCrew2.jpg",
+                      "assets/img/Movies/theWreckingCrew/TheWreckingCrew3.jpg",
+                      "assets/img/Movies/theWreckingCrew/TheWreckingCrew4.jpg",
+                      "assets/img/Movies/theWreckingCrew/TheWreckingCrew5.jpg"
+                    ]
+  },
+  {
+    "id"          : "22",
+    "image"       : "assets/img/Movies/ChefKiss/Chef’sKiss.jpg",
+    "name"        : "Chef’s Kiss",
+    "date"        : "2026",
+    "title"       : "Movies",
+    "director"    : "Adrian Powers",
+    "writers"     : "Amelie Bonnet, Mia Grunwald",
+    "stars"       : "Adrienne Bailon-Houghton, Nat Buchanan, Patch Harrison",
+    "imdbRating"  : "4.6/10",
+    "info"        : "Lauren travels to Italy to rebrand Russo Pasta Sauce, but her culture clash with Mason and Francesca's culinary heritage evolves into deeper revelations about love, life, and career priorities.",
+    "gallery"     : [
+                      "assets/img/Movies/ChefKiss/Chef’sKiss1.jpg",
+                      "assets/img/Movies/ChefKiss/Chef’sKiss2.jpg",
+                      "assets/img/Movies/ChefKiss/Chef’sKiss3.jpg",
+                      "assets/img/Movies/ChefKiss/Chef’sKiss4.jpg",
+                      "assets/img/Movies/ChefKiss/Chef’sKiss5.jpg"
+                    ]
+  }
+]

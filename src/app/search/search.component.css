@@ -1,0 +1,52 @@
+h4 {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+h2,
+h4,
+h5 {
+  color: #b5e6db;
+}
+.card {
+  transition: 0.3s;
+  border-radius: 10px;
+  border-color: #3c3d4f;
+  background-color: #3c3d4f;
+}
+.card img {
+  border-radius: 15px;
+}
+.card:hover {
+  transform: scale(1.05);
+  border-color: #3c3d4f;
+}
+.card-body {
+  background-color: #3c3d4f;
+}
+.card .card-body h5 {
+  font-size: 18px;
+  font-weight: bold;
+}
+ul {
+  border-color: #b5e6db;
+}
+ul li {
+  margin-right: 30px;
+}
+ul li button {
+  font-size: 18px;
+  font-weight: bold;
+  color: #b5e6db;
+}
+ul li button.active {
+  color: #3c3d4f;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #b5e6db;
+  border-color: #b5e6db;
+}
+ul li button:hover {
+  border-color: #b5e6db;
+}

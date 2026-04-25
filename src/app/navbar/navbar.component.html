@@ -1,0 +1,65 @@
+<nav class="navbar navbar-expand-lg">
+  <div class="container">
+    <a class="navbar-brand fs-3 fw-bold" href="#">
+      <img [src]="EffectiveMovies" class="EffectiveIcon" alt="">
+    </a>
+    <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main"
+      aria-controls="main" aria-expanded="false" aria-label="Toggle navigation">
+    </button> -->
+
+    <div class="uk-hidden@m">
+      <div uk-navbar="mode: click">
+        <div class="uk-navbar-left">
+          <a class="uk-navbar-toggle" uk-navbar-toggle-icon href="#"></a>
+          <div class="uk-navbar-dropdown">
+            <ul class="uk-nav uk-navbar-dropdown-nav">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" routerLink="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" routerLink="/movies">Movies</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" routerLink="/series">Series</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" routerLink="/tvShow">Tv-Show</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" routerLink="/aboutUS">About Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="collapse navbar-collapse fs-5 fw-bold" id="main">
+      <ul class="navbar-nav m-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" routerLink="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" routerLink="/movies">Movies</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" routerLink="/series">Series</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" routerLink="/tvShow">Tv-Show</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" routerLink="/aboutUS">About Us</a>
+        </li>
+      </ul>
+      <!-- <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+        <button class="btn btn-outline-primary" type="submit">Search</button>
+      </form> -->
+      <form class="d-flex" (ngSubmit)="onSearch()">
+        <input class="form-control me-2" type="search" [(ngModel)]="searchTerm" name="search" />
+        <button class="btn btn-outline-primary" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>

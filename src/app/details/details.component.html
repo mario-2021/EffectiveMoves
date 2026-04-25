@@ -1,0 +1,98 @@
+<div class="container-fluid">
+  <div *ngIf="selectedImage" class=" text-center pb-3">
+    <div class="row mt-5">
+      <div class="col-lg-6 col-sm-12 col-12">
+        <h2 class="ps-5 text-center">{{ selectedImage.name }}</h2>
+      </div>
+      <div class="col-lg-6 col-sm-12 col-12 iMdB">
+        <p class=""> IMDB
+          {{ selectedImage.imdbRating }}</p>
+      </div>
+    </div>
+    <div class="row align-items-center">
+      <div class="col-lg-4 col-sm-12 col-12 mainInfo">
+        <div class="pt-4 pb-4">
+          <img [src]="selectedImage.image" alt="{{ selectedImage.name }}" class="rounded img-thumbnail" />
+        </div>
+      </div>
+      <div class="text-start col-lg-4 col-sm-12 col-12 mainInfo">
+        <div class="row p-2">
+          <div class="col-12 story mb-4">
+            <p class="m-0">{{ selectedImage.info }}</p>
+          </div>
+          <div class="col-12 infoPoster mb-4">
+            <p class="m-0">
+              <span>
+                Year:
+              </span>
+              {{ selectedImage.date }}
+            </p>
+          </div>
+          <div class="col-12 infoPoster mb-4">
+            <p class="m-0">
+              <span>
+                director:
+              </span>
+              {{ selectedImage.director }}
+            </p>
+          </div>
+          <div class="col-12 infoPoster mb-4">
+            <p class="m-0">
+              <span>
+                writers:
+              </span>
+              {{ selectedImage.writers }}
+            </p>
+          </div>
+          <div class="col-12 infoPoster">
+            <p class="m-0">
+              <span>
+                stars:
+              </span>
+              {{ selectedImage.stars }}
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-sm-12 col-12 mainInfo">
+        <div class="m-auto">
+          <button type="button" class="btn btn-danger mt-3 mb-3 fs-2 fw-bold w-100 h-50">
+            Watch Now
+            <span class="uk-icon ms-3" href="#" uk-icon="ratio: 4; icon: play-circle"></span>
+          </button>
+          <br />
+          <button type="button" class="btn btn-success mt-3 mb-3 fs-2 fw-bold w-100 h-50">
+            Download Now
+            <span class="uk-icon ms-3" href="#" uk-icon="ratio: 4; icon: cloud-download"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slideshowGallery mb-3">
+    <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slideshow="animation: push">
+      <div class="uk-slideshow-items">
+        <div>
+          <img [src]="selectedGallery[0]" alt="" class="galleryImg" uk-cover>
+        </div>
+        <div>
+          <img [src]="selectedGallery[1]" alt="" class="galleryImg" uk-cover>
+        </div>
+        <div>
+          <img [src]="selectedGallery[2]" alt="" class="galleryImg" uk-cover>
+        </div>
+        <div>
+          <img [src]="selectedGallery[3]" alt="" class="galleryImg" uk-cover>
+        </div>
+        <div>
+          <img [src]="selectedGallery[4]" alt="" class="galleryImg" uk-cover>
+        </div>
+      </div>
+      <a class="uk-position-center-left uk-position-small uk-hidden-hover" href uk-slidenav-previous
+        uk-slideshow-item="previous"></a>
+      <a class="uk-position-center-right uk-position-small uk-hidden-hover" href uk-slidenav-next
+        uk-slideshow-item="next"></a>
+    </div>
+  </div>
+</div>

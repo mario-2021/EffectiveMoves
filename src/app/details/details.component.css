@@ -1,0 +1,74 @@
+h2 {
+  color: #b5e6db;
+  text-align: start;
+  font-weight: 600;
+}
+.iMdB {
+  text-align: -webkit-center;
+}
+.iMdB p {
+  background-color: #ff9800;
+  color: #212529;
+  max-width: 300px;
+  max-height: 65px;
+  padding: 17px;
+  text-align: center;
+  border-radius: 35px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.mainInfo {
+  padding: 0 25px;
+  color: #b5e6db;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.story {
+  color: #b5e6db;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 600;
+  overflow: hidden;
+  padding: 20px;
+  background: #ffffff14;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+.infoPoster {
+  color: #b5e6db;
+  padding: 10px;
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 600;
+  background: #ffffff14;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.slideshowGallery .galleryImg {
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.slideshowGallery .galleryImg:hover {
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.slideshowGallery .uk-position-center-left,
+.slideshowGallery .uk-position-center-right {
+  background-color: #b5e6db;
+  color: #212529;
+  border-radius: 15%;
+  -webkit-border-radius: 15%;
+  -moz-border-radius: 15%;
+  -ms-border-radius: 15%;
+  -o-border-radius: 15%;
+}

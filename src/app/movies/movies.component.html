@@ -1,0 +1,35 @@
+<div class="container" style="margin-top: 50px;margin-bottom: 50px;">
+  <div class="mt-5 mb-5 text-center">
+    <h2 class="fs-1 fw-bold titleName">Movies</h2>
+  </div>
+  <div class="row">
+    <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery" *ngFor="let item of db">
+      <div class="card text-bg-dark mb-5 images-box">
+        <img [src]="item.image" class="card-img" alt="{{ item.name }}"
+        loading="lazy" (click)="openPopup(item)">
+        <div class="mt-3 mb-3">
+          <p class="fs-5 fw-bold">{{ item.title }}</p>
+          <button class="buttonMovName" type="button" (click)="openPopup(item)">
+            <h5>
+              {{ item.name }}
+            </h5>
+          </button>
+          <p class="fs-5 fw-bold">
+            {{ item.session }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Overlay -->
+  <div class="popup-overlay" *ngIf="selectedImage" (click)="closePopup()"></div>
+  <!-- Popup -->
+  <div class="popup-box text-center" *ngIf="selectedImage">
+    <span class="close-button" (click)="closePopup()">×</span>
+    <div class="d-grid gap-2"></div>
+    <img [src]="selectedImage.image" alt="" class="popup-img"/>
+    <button class="btn btn-primary" type="button" (click)="openPage(selectedImage)">
+      <h3>{{ selectedImage.name }} {{ selectedImage.date }}</h3>
+    </button>
+  </div>
+</div>

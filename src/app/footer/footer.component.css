@@ -1,0 +1,41 @@
+.footer {
+  background-color: #17152e;
+  padding: 20px;
+}
+.footer .links {
+  font-size: 14px;
+}
+.footer .copyright > span {
+  color: #b7e6db;
+}
+.contact .email {
+  background-color: #b7e6db;
+  color: black;
+  text-decoration: none;
+}
+.footer .facebook,
+.footer .instagram,
+.footer .linkedin,
+.footer .vk,
+.footer .whatsapp,
+.footer .github {
+  color: white;
+}
+.footer .facebook {
+  background-color: #1877f2;
+}
+.footer .instagram {
+  background-color: #fa3847;
+}
+.footer .linkedin {
+  background-color: #0077b5;
+}
+.footer .vk {
+  background-color: #1c7afa;
+}
+.footer .whatsapp {
+  background-color: #25d366;
+}
+.footer .github {
+  background-color: #333;
+}
